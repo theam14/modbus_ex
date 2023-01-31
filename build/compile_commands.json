@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/theam/development/projects/cpp/modbus_ex/build",
+  "command": "/bin/clang++-13.0.1 -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB  -Wall -Wpedantic -g -std=gnu++20 -o CMakeFiles/modbus_example.dir/main.cpp.o -c /home/theam/development/projects/cpp/modbus_ex/main.cpp",
+  "file": "/home/theam/development/projects/cpp/modbus_ex/main.cpp"
+}
+]

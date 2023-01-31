@@ -1,0 +1,1 @@
+/bin/clang++-13.0.1 -Wall -Wpedantic -g -rdynamic CMakeFiles/modbus_example.dir/main.cpp.o -o modbus_example  /usr/lib64/libboost_filesystem.so.1.80.0 /usr/lib64/libboost_atomic.so.1.80.0 
